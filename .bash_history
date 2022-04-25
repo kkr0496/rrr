@@ -20,3 +20,17 @@ yum install git -y
 sudo su
 yum install git -y
 sudo su
+git status
+ll
+ls-al
+git init .
+ls-al
+la -al
+ls
+sudo su
+git --version
+mkdir kp
+git status
+cd kp
+pwd
+sudo su
